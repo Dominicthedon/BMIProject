@@ -28,8 +28,8 @@ int imp;
         weight= keyboard.nextDouble();
        imp= 703;
 
-System.out.println(" " );
-System.out.println(imp*weight/(inches*inches));
+       System.out.println(" " );
+       System.out.println(imp*weight/(inches*inches));
 
 
 
